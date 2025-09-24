@@ -4,5 +4,9 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/W3 - Terrain Project.unity
+    guid: 91d87cd3ff3fd2f4faea794e5063c681
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
