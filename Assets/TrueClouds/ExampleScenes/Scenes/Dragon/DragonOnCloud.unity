@@ -312,15 +312,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 411142, guid: 298280243dbd9d6418832f30a2101685, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -92.134995
+      value: -92.01
       objectReference: {fileID: 0}
     - target: {fileID: 411142, guid: 298280243dbd9d6418832f30a2101685, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -594.58
+      value: -594.43
       objectReference: {fileID: 0}
     - target: {fileID: 411142, guid: 298280243dbd9d6418832f30a2101685, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.25
+      value: 0.53
       objectReference: {fileID: 0}
     - target: {fileID: 411142, guid: 298280243dbd9d6418832f30a2101685, type: 3}
       propertyPath: m_LocalRotation.w
@@ -519,6 +519,10 @@ PrefabInstance:
     - target: {fileID: 131418, guid: 804c4a1cb4804ec4380818733520aac9, type: 3}
       propertyPath: m_Name
       value: DragonCloud
+      objectReference: {fileID: 0}
+    - target: {fileID: 161816, guid: 804c4a1cb4804ec4380818733520aac9, type: 3}
+      propertyPath: m_Name
+      value: f
       objectReference: {fileID: 0}
     - target: {fileID: 161816, guid: 804c4a1cb4804ec4380818733520aac9, type: 3}
       propertyPath: m_IsActive
